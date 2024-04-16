@@ -1,0 +1,1 @@
+The codes for each model is provided in four separate files. please open each code and run the blocks respectively. The codes are written in python 3.8. So you have to have python 3.8 installed with all requirements. Also there is a result folder which contains results for every model.
